@@ -1,0 +1,8 @@
+{
+  "name": "arisan-sultan",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@netlify/blobs": "10.1.0"
+  }
+}
